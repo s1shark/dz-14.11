@@ -1,0 +1,7 @@
+.common-header {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    color: green;
+    font-weight: 700;
+}
