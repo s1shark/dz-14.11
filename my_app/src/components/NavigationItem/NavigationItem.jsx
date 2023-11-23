@@ -10,7 +10,7 @@ const NavigationItem = (props) => {
     );
   
     return (
-       <div className='common'>
+       <div className='common-nav'>
         <div className='text'>
             { isUppercasetext ? text.toUpperCase() : text }
         </div>
